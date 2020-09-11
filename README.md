@@ -4,7 +4,7 @@ I'm a full stack developer and consultant. Experienced in Vue, Node.js, SQL, NoS
 
 Several years of experience with technical account management and project management for small and medium sized businesses. 
 
-# Open Source Stats
+### Open Source Stats
 ![](https://github-readme-stats.vercel.app/api?username=jvik)
 
 
