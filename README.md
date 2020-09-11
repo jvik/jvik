@@ -6,8 +6,8 @@ Several years of experience with technical account management and project manage
 
 📫 Reach me at: +47 91 99 99 47 or mail@jvik.no
 
-### Open Source Stats
-![](https://github-readme-stats.vercel.app/api?username=jvik)
+### Github Stats
+![](https://github-readme-stats.vercel.app/api?username=jvik&count_private=true&show_icons=true)
 
 <!--
 
