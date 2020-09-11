@@ -4,10 +4,11 @@ I'm a full stack developer and consultant. Experienced in Vue, Node.js, SQL, NoS
 
 Several years of experience with technical account management and project management for small and medium sized businesses. 
 
+# Open Source Stats
+![](https://github-readme-stats.vercel.app/api?username=jvik)
 
-![Test](https://github-readme-stats.vercel.app/api?username=jvik)
 
-- 📫 How to reach me: +47 91 99 99 47 or mail@jvik.no
+📫 Reach me at: +47 91 99 99 47 or mail@jvik.no
 
 <!--
 
