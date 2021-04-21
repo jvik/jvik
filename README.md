@@ -8,6 +8,8 @@ Several years of experience with technical account management and project manage
 
 ![](https://github-readme-stats.vercel.app/api?username=jvik&count_private=true&show_icons=true&theme=dracula)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jvik&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 
 Here are some ideas to get you started:
