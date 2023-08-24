@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Not very active on github at the moment.
+I'm Jørgen Vik.
 
 📫 Reach me at: [LinkedIn](https://www.linkedin.com/in/vikjorgen/), +47 91 99 99 47 or mail@jvik.no
 
