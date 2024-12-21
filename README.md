@@ -1,8 +1,6 @@
 ### Hi there 👋
 
-I'm Jørgen Vik.
-
-📫 Reach me at: [LinkedIn](https://www.linkedin.com/in/vikjorgen/), +47 91 99 99 47 or mail@jvik.no
+I'm Jørgen
 
 <!--
 
